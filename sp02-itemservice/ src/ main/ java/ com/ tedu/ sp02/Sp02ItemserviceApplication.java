@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Sp02ItemserviceApplication {
 
+        //main方法
 	public static void main(String[] args) {
 		SpringApplication.run(Sp02ItemserviceApplication.class, args);
 	}
